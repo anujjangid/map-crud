@@ -24,3 +24,8 @@
   http://localhost:3000/update
 - Delete the marker from the DB
   http://localhost:3000/delete/id
+
+
+### Screen Shot
+
+![Map Data](https://i.ibb.co/kM1bbYc/Screenshot-2019-04-10-at-1-43-08-PM.png)

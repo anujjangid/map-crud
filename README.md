@@ -17,6 +17,6 @@ View, create, edit and delete this markers on map
 
 ### Screen Shot
 
-In case screen shot down't work, click here to see the animated gif.
+In case screen shot down't work, click here https://i.ibb.co/9Z3nFKY/latest.gif to see the animated gif.
 
 ![medwing](https://i.ibb.co/BGTYGcT/newGig.gif)

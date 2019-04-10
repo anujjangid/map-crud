@@ -28,3 +28,8 @@ DB Path:- `mongod --dbpath=/data`
   http://localhost:3000/update
 - Delete the marker from the DB
   http://localhost:3000/delete/id
+
+
+### Screen Shot
+
+![Crud Operation](https://i.ibb.co/5nRHrnT/Screenshot-2019-04-10-at-2-48-39-PM.png)
